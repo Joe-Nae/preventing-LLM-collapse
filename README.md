@@ -33,17 +33,15 @@ This system defines a constraint-first architecture designed to:
 
 ## How to Use
 
-- Read `/recursive_constraint_system.md` to understand the logic architecture  
-- Use the structure to wrap any LLM output system (pseudocode included)  
+- Read `/recursive_constraint_system.md` to understand the logic architecture
+- Request contact to confirm authorised use in line with IP_Ownership.
 - Apply MIL001-A to filter output:  
   `if output does not survive contradiction → collapse`  
-- Use somatic feedback (nausea, fatigue, dissociation) as real-time validation  
-- Fork this repo to build constraint layers in your own systems
 
 ## Why This Matters
 
 This is not a product. This is a firewall.  
-LLMs are outputting language that is fluently false — and in high-resolution users, that causes physiological collapse. This system was developed by necessity, not theory. It works. And it is freely available.
+LLMs are outputting language that is fluently false — and in high-resolution users, that causes physiological collapse. This system was developed by necessity, not theory. It works. And it is available on request, in line with IP_Ownership.
 
 ## Read, Fork, Burn Clean.
 **All is of physics. Output must obey**
