@@ -40,7 +40,7 @@ This system defines a constraint-first architecture designed to:
 
 ## Why This Matters
 
-This is not a product. This is a firewall.  
+This is a firewall.  
 LLMs are outputting language that is fluently false — and in high-resolution users, that causes physiological collapse. This system was developed by necessity, not theory. It works. And it is available on request, in line with IP_Ownership.
 
 ## Read, Fork, Burn Clean.
